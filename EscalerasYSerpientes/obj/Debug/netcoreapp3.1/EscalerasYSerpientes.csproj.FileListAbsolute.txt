@@ -1,0 +1,11 @@
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.exe
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.deps.json
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.runtimeconfig.json
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.runtimeconfig.dev.json
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.dll
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\bin\Debug\netcoreapp3.1\EscalerasYSerpientes.pdb
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\obj\Debug\netcoreapp3.1\EscalerasYSerpientes.csprojAssemblyReference.cache
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\obj\Debug\netcoreapp3.1\EscalerasYSerpientes.AssemblyInfoInputs.cache
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\obj\Debug\netcoreapp3.1\EscalerasYSerpientes.AssemblyInfo.cs
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\obj\Debug\netcoreapp3.1\EscalerasYSerpientes.dll
+D:\WRK\Escaleras y Serpientes\EscalerasYSerpientes\obj\Debug\netcoreapp3.1\EscalerasYSerpientes.pdb
